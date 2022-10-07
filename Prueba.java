@@ -4,6 +4,7 @@ public class Prueba {
 		System.out.println("Colino");
 		System.out.println("18 años");
 		System.out.println("2004");
+		System.out.println("Pizza");
 
 
 
