@@ -5,3 +5,13 @@ Sale un error ya q esta arcivo cuyo nombre ha sido cambiado no ha sido agregado 
 https://i.imgur.com/7C4lWIC.png
 
 Se usa ese comando para mandar archivos de forma remota desde un dispositivo a otro repositorio.
+
+https://i.imgur.com/4IxOaxh.png
+
+
+https://i.imgur.com/snPhPQv.png
+
+
+https://i.imgur.com/sGkqfVj.png
+
+https://i.imgur.com/WICQsev.png
